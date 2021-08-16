@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59fda82aaa7cfc5f0008acd6944f5cff",
+    "revision": "1e425644a778b02c3c8dc113fa042d12",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.06ebec9a.chunk.css"
   },
   {
-    "revision": "7870ef57e0d8af165a4b",
+    "revision": "4934cdb39d1acbeefe1e",
     "url": "/static/css/main.a2687636.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.86845191.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7870ef57e0d8af165a4b",
-    "url": "/static/js/main.1a844b52.chunk.js"
+    "revision": "4934cdb39d1acbeefe1e",
+    "url": "/static/js/main.f951f879.chunk.js"
   },
   {
     "revision": "d3ebb56a3098223b5316",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/randomgif.daa6afbd.gif"
   },
   {
-    "revision": "074eaf023f6edf3c43b7a05838b139c2",
-    "url": "/static/media/raritychart.074eaf02.png"
+    "revision": "f61cfc7d18636d1508f2bfb60ff0cf17",
+    "url": "/static/media/raritychart.f61cfc7d.png"
   }
 ]);
